@@ -1,0 +1,19 @@
+#numbatoo {
+    color: rgb(0, 47, 255);
+    text-size: 36px;
+}
+
+#numbafow {
+    background-color: rgb(150, 237, 150);
+    text-size: 24px;
+    font-weight: 800;
+}
+
+.odd {
+    background-color: rgb(235, 110, 131);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.fatso {
+    text-size: 24x;
+}
